@@ -1,0 +1,199 @@
+Frequency,Mode,Station,On,Off,Language,Site,TX Country,Days,Target,Power,Azimuth,Origin,Source,Stn,Call sign,Additional info,Remarks,Position of site,Active,Year
+11650000,AM,China Radio International,0400,0457,Vietnamese,Kunming-Anning,China,1234567,seASn,100,184,China,ILGRadio,CRI,,,,"102 29 44E,24 52 54N",C,2212
+11650000,AM,China Radio International,0500,0557,Vietnamese,Kunming-Anning,China,1234567,seASn,100,184,China,ILGRadio,CRI,,,,"102 29 44E,24 52 54N",C,2212
+11650000,AM,China Radio International,1400,1457,Amoy (Music),Kunming-Anning,China,1234567,seAS,150,177,China,ILGRadio,CRI,,,,"102 29 44E,24 52 54N",C,2212
+11650000,AM,CGTN Radio (China Radio Int.),1100,1200,English,Urumqui,China,1234567,sAS,500,212,China,ILGRadio,CRI,,,,"086 53 49E,44 08 53N",C,2212
+11650000,AM,CGTN Radio (China Radio Int.),1200,1300,English,Urumqui,China,1234567,sAS,500,212,China,ILGRadio,CRI,,,,"086 53 49E,44 08 53N",C,2212
+11650000,AM,Chinese Jammer,0900,1000,Mandarin,Kashi II,China,1234567,(CHN   ),250,90,China,ILGRadio,Jamme,,,JAMMING VOA MAN,"075 42 55E,39 21 51N",C,2211
+11650000,AM,Chinese Jammer,1000,1100,Mandarin,Kashi II,China,1234567,(CHN   ),250,90,China,ILGRadio,Jamme,,,JAMMING VOA MAN,"075 42 55E,39 21 51N",C,2211
+11650000,AM,Norddeutscher Rundfunk,1800,2100,German,Issoudun,France,......7,seAF,250,148,France,ILGRadio,NDR,,,24.December onl,"001 54 09E,46 57 02N",C,
+11650000,AM,Voice of Islamic Rep.of Iran,2223,2320,Hausa,Sirjan,Iran,1234567,wAF,500,263,Iran,ILGRadio,VOIRI,,,,"055 47 03E,29 35 49N",C,2211
+11650000,AM,R.Dabanga,0430,0457,Arabic,Talata-Volondry,Madagascar,1234567,eAF,250,335,Madagascar,ILGRadio,DABAN,,RD,,"047 36 55E,18 45 08S",C,2211
+11650000,AM,R.Tamazuj,0330,0430,Arabic,Talata-Volondry,Madagascar,1234567,eAF,250,335,Madagascar,ILGRadio,TAMAZ,,RT,,"047 36 55E,18 45 08S",C,2211
+11650000,AM,Voice of America,0900,1000,Mandarin,Udon Thani,Thailand,1234567,cAS,250,6,Thailand,ILGRadio,VOA,,,,"103 12 00E,17 40 31N",C,2211
+11650000,AM,Voice of America,1000,1100,Mandarin,Udon Thani,Thailand,1234567,cAS,250,6,Thailand,ILGRadio,VOA,,,,"103 12 00E,17 40 31N",C,2211
+11650000,DRM,Chinese Jammer,0900,1000,DRM Mandarin,Dongfang,China,1234567,(CHNe  ),30,5,China,ILGRadio,Jamme,,,JAMMING VOA MAN,"108 40 50E,18 52 20N",C,
+11650000,DRM,Chinese Jammer,1000,1100,DRM Mandarin,Dongfang,China,1234567,(CHN   ),30,5,China,ILGRadio,Jamme,,,JAMMING VOA MAN,"108 40 50E,18 52 20N",C,2211
+11655000,AM,IBRA Radio,1500,1530,Pashto,Al Dabbiya,Unit.Arab Emirates,1234567,neME,250,45,United Arab Emirates,ILGRadio,IBRA,,,,"054 14 58E,24 10 11N",C,
+11655000,AM,IBRA Radio,1600,1630,Afar,Al Dabbiya,Unit.Arab Emirates,1234567,eAF,250,230,United Arab Emirates,ILGRadio,IBRA,,,,"054 14 58E,24 10 11N",C,2211
+11660000,AM,BBC World Service,0700,0729,French,Ascension,Ascension Island,1234567,wAF,250,27,Ascension Island,ILGRadio,BBC,,,,"014 22 37W,07 53 53S",C,2211
+11660000,AM,BBC World Service,1930,2000,Hausa,Ascension,Ascension Island,12345.7,wAFse,125,55,Ascension Island,ILGRadio,BBC,,,,"014 22 37W,07 53 53S",C,
+11660000,AM,BBC World Service,1930,2030,Hausa,Ascension,Ascension Island,.....6.,wAFse,125,55,Ascension Island,ILGRadio,BBC,,,,"014 22 37W,07 53 53S",C,2211
+11660000,AM,Follow The Bible Ministries,1900,1930,English/Kanuri,Ascension,Ascension Island,1......,wAFse,250,65,Ascension Island,ILGRadio,FTBM,,,,"014 22 37W,07 53 53S",C,NONE
+11660000,AM,CNR Beijing 2,0101,0600,Mandarin,Xian-Xianyang,China,1234567,(CHNc  ),150,0,China,ILGRadio,CNR 2,,,,"108 36 37E,34 22 33N",C,2211
+11660000,AM,CNR Beijing 2,0600,0900,Mandarin,Xian-Xianyang,China,123.567,(CHNc  ),150,0,China,ILGRadio,CNR 2,,,,"108 36 37E,34 22 33N",C,2211
+11660000,AM,Chinese Jammer,1100,1200,Mandarin,Kashi II,China,1234567,(CHN   ),250,90,China,ILGRadio,Jamme,,,JAMMING VOA MAN,"075 42 55E,39 21 51N",C,2211
+11660000,AM,Chinese Jammer,1200,1300,Mandarin,Kashi II,China,1234567,(CHN   ),250,90,China,ILGRadio,Jamme,,,JAMMING VOA MAN,"075 42 55E,39 21 51N",C,2212
+11660000,AM,Chinese Jammer,1300,1400,Mandarin,Kashi II,China,1234567,(CHN   ),250,90,China,ILGRadio,Jamme,,,JAMMING VOA MAN,"075 42 55E,39 21 51N",C,2212
+11660000,AM,Chinese Jammer,1400,1500,Mandarin,Kashi II,China,1234567,(CHN   ),250,90,China,ILGRadio,Jamme,,,JAMMING VOA MAN,"075 42 55E,39 21 51N",C,2211
+11660000,AM,BBC World Service,1800,1830,French,Woofferton,United Kingdom,1234567,cAF,250,160,United Kingdom,ILGRadio,BBC,,,,"002 43 22W,52 18 49N",C,2211
+11660000,AM,Voice of America,1100,1200,Mandarin,Tinang,Philippines,1234567,cAS,250,349,Philippines,ILGRadio,VOA,,,,"120 37 33E,15 22 44N",C,2211
+11660000,AM,Voice of America,1300,1400,Mandarin,Tinang,Philippines,1234567,cAS,250,332,Philippines,ILGRadio,VOA,,,,"120 37 33E,15 22 44N",C,2212
+11660000,AM,Voice of America,1400,1430,Mandarin,Tinang,Philippines,1234567,cAS,250,332,Philippines,ILGRadio,VOA,,,,"120 37 33E,15 22 44N",C,2211
+11660000,AM,R.Romania International,0730,0756,Arabic,Galbeni,Romania,1234567,nwAF,300,245,Romania,ILGRadio,ROMAN,,,,"026 51 17E,46 45 06N",C,2211
+11660000,AM,Trans World Radio,1630,1645,Kambaata,Mpangela Ranch,eSwatini,.....67,eAF,100,13,Swaziland,ILGRadio,TWR,,,,"031 35 54E,26 20 23S",C,
+11660000,AM,Trans World Radio,1630,1700,Amharic/Oromo,Mpangela Ranch,eSwatini,12345..,eAF,100,13,Swaziland,ILGRadio,TWR,,,,"031 35 54E,26 20 23S",C,2211
+11660000,AM,Trans World Radio,1645,1700,Hadiya,Mpangela Ranch,eSwatini,.....67,eAF,100,13,Swaziland,ILGRadio,TWR,,,,"031 35 54E,26 20 23S",C,
+11660000,AM,Trans World Radio,1700,1730,Amharic,Mpangela Ranch,eSwatini,1234567,eAF,100,13,Swaziland,ILGRadio,TWR,,,,"031 35 54E,26 20 23S",C,2211
+11660000,AM,Trans World Radio,1730,1800,Oromo,Mpangela Ranch,eSwatini,.23456.,eAF,100,13,Swaziland,ILGRadio,TWR,,,,"031 35 54E,26 20 23S",C,2211
+11660000,AM,Voice of America,1200,1300,Mandarin,Udon Thani,Thailand,1234567,cAS,250,30,Thailand,ILGRadio,VOA,,,,"103 12 00E,17 40 31N",C,2212
+11660000,AM,Voice of America,1430,1500,Mandarin,Udon Thani,Thailand,1234567,cAS,250,30,Thailand,ILGRadio,VOA,,,,"103 12 00E,17 40 31N",C,2211
+11660000,AM,Voice of Turkiye,0500,0600,Turkish,Emirler,Turkiye,1234567,wME,500,150,Turkey,ILGRadio,VTURK,,,,"032 51 20E,39 24 08N",C,2211
+11660000,AM,Voice of Turkiye,0600,0657,Turkish,Emirler,Turkiye,1234567,wME,500,150,Turkey,ILGRadio,VTURK,,,,"032 51 20E,39 24 08N",C,2211
+11660000,DRM,Chinese Jammer,1100,1200,DRM Mandarin,Dongfang,China,1234567,(CHNe  ),30,5,China,ILGRadio,Jamme,,,JAMMING VOA MAN,"108 40 50E,18 52 20N",C,
+11660000,DRM,Chinese Jammer,1200,1300,DRM Mandarin,Dongfang,China,1234567,(CHNe  ),30,5,China,ILGRadio,Jamme,,,JAMMING VOA MAN,"108 40 50E,18 52 20N",C,2212
+11660000,DRM,Chinese Jammer,1300,1400,DRM Mandarin,Dongfang,China,1234567,(CHNe  ),30,5,China,ILGRadio,Jamme,,,JAMMING VOA MAN,"108 40 50E,18 52 20N",C,2212
+11660000,DRM,Chinese Jammer,1400,1500,DRM Mandarin,Dongfang,China,1234567,(CHNe  ),30,5,China,ILGRadio,Jamme,,,JAMMING VOA MAN,"108 40 50E,18 52 20N",C,
+11665000,AM,Wai FM Kuala Lumpur,2200,1400,Malaysian,Kajang,Malaysia,1234567,(MLAe  ),100,93,Malaysia,ILGRadio,WaiFM,,,Wai FM,"101 46 57E,03 00 43N",C,2211
+11670000,AM,CNR Beijing 2,0600,0900,Mandarin,Beijing-Shuangqiao,China,123.567,(CHNsw ),150,220,China,ILGRadio,CNR 2,,,,"116 34 30E,39 53 16N",C,2211
+11670000,AM,CNR Beijing 2,0900,1200,Mandarin,Beijing-Shuangqiao,China,1234567,(CHNsw ),150,220,China,ILGRadio,CNR 2,,,,"116 34 30E,39 53 16N",C,2212
+11670000,AM,CNR Beijing 2,2330,0600,Mandarin,Beijing-Shuangqiao,China,1234567,(CHNsw ),150,220,China,ILGRadio,CNR 2,,,,"116 34 30E,39 53 16N",C,2211
+11670000,AM,Chinese Jammer,1600,1700,Mandarin,Kashi II,China,1234567,(CHN   ),250,115,China,ILGRadio,Jamme,,,JAMMING VOA TIB,"075 42 55E,39 21 51N",C,2211
+11670000,AM,R.Habana Cuba,0000,0100,Spanish,La Habana-Bauta,Cuba,1234567,eSA,100,130,Cuba,ILGRadio,RHC,,,,"082 32 44W,22 57 01N",C,2203
+11670000,AM,R.Habana Cuba,0100,0200,Spanish,La Habana-Bauta,Cuba,1234567,eSA,100,130,Cuba,ILGRadio,RHC,,,,"082 32 44W,22 57 01N",C,
+11670000,AM,R.Habana Cuba,0200,0300,Spanish,La Habana-Bauta,Cuba,1234567,eSA,100,130,Cuba,ILGRadio,RHC,,,,"082 32 44W,22 57 01N",C,2211
+11670000,AM,R.Habana Cuba,0300,0400,Spanish,La Habana-Bauta,Cuba,1234567,eSA,100,130,Cuba,ILGRadio,RHC,,,,"082 32 44W,22 57 01N",C,2211
+11670000,AM,R.Habana Cuba,0400,0500,Spanish,La Habana-Bauta,Cuba,1234567,eSA,100,130,Cuba,ILGRadio,RHC,,,,"082 32 44W,22 57 01N",C,2211
+11670000,AM,Voice of America,1600,1700,Tibetan,Tinang,Philippines,1234567,cASw,250,315,Philippines,ILGRadio,VOA,,,,"120 37 33E,15 22 44N",C,2211
+11670000,AM,R.Romania International,1200,1256,English,Tiganesti,Romania,1234567,nwEU,300,307,Romania,ILGRadio,ROMAN,,,,"026 06 10E,44 44 59N",C,2212
+11670000,DRM,Chinese Jammer,1600,1700,DRM Mandarin,Dongfang,China,1234567,(CHN   ),30,310,China,ILGRadio,Jamme,,,JAMMING VOA TIB,"108 40 50E,18 52 20N",C,2211
+11675000,AM,Voice of America,1330,1430,Khmer,Tinang,Philippines,1234567,seASn,250,270,Philippines,ILGRadio,VOA,,,,"120 37 33E,15 22 44N",C,2211
+11680000,AM,TeleDiffusion de Algerie,0600,0700,Arabic,Bechar,Algeria,1234567,wAFse,300,131,Algeria,ILGRadio,TDA,,,,"002 20 55W,31 34 25N",C,NONE
+11680000,AM,CNR Beijing,0000,0600,Hakka/Amoy,Nanning,China,1234567,seASn,100,142,China,ILGRadio,CNR 6,,,,"108 11 30E,22 47 32N",C,2211
+11680000,AM,CNR Beijing,0600,0900,Hakka,Nanning,China,123.567,seASn,100,142,China,ILGRadio,CNR 6,,,,"108 11 30E,22 47 32N",C,2212
+11680000,AM,CNR Beijing,0900,1200,Hakka/Mandarin,Nanning,China,1234567,seASn,100,142,China,ILGRadio,CNR 6,,,,"108 11 30E,22 47 32N",C,2212
+11680000,AM,China Radio International,1200,1257,Khmer,Nanning,China,1234567,seAS,100,200,China,ILGRadio,CRI,,,,"108 11 30E,22 47 32N",C,2212
+11680000,AM,KCBS Pyongyang,2000,1755,Korean,Kuyang,Korea-North,1234567,(KREn  ),200,28,North Korea,ILGRadio,KCBS,,,,"126 06 38E,40 04 52N",C,2211
+11680000,AM,Voice of Hope - Africa,0400,0802,English,Lusaka-Shangala,Zambia,1234567,wAF/cAF,100,315,Zambia,ILGRadio,VOHA,,,,"028 00 13E,15 32 20S",C,NONE
+11685000,AM,CNR Beijing 11,0000,0600,Tibetan,Xian-Baoji,China,1234567,(CHNsw ),100,255,China,ILGRadio,CNR11,,,,"106 56 30E,34 41 36N",C,2211
+11685000,AM,CNR Beijing 11,0600,0857,Tibetan,Xian-Baoji,China,123.567,(CHNsw ),100,255,China,ILGRadio,CNR11,,,,"106 56 30E,34 41 36N",C,2211
+11685000,AM,R.Exterior de Espana,1500,1600,Spanish,Noblejas,Spain,1.....7,AF,200,161,Spain,ILGRadio,REE,,,,"003 25 49W,39 57 29N",C,2211
+11685000,AM,R.Exterior de Espana,1600,1730,Spanish,Noblejas,Spain,1234567,AF,200,161,Spain,ILGRadio,REE,,,,"003 25 49W,39 57 29N",C,2211
+11685000,AM,R.Exterior de Espana,1730,1800,Arabic,Noblejas,Spain,.23456.,AF,200,161,Spain,ILGRadio,REE,,,,"003 25 49W,39 57 29N",C,2211
+11685000,AM,R.Exterior de Espana,1730,1830,Spanish,Noblejas,Spain,1.....7,AF,200,161,Spain,ILGRadio,REE,,,,"003 25 49W,39 57 29N",C,
+11685000,AM,R.Exterior de Espana,1800,1830,Portuguese,Noblejas,Spain,.23456.,AF,200,161,Spain,ILGRadio,REE,,,,"003 25 49W,39 57 29N",C,2211
+11685000,AM,R.Exterior de Espana,1830,2230,Spanish,Noblejas,Spain,1234567,AF,200,161,Spain,ILGRadio,REE,,,,"003 25 49W,39 57 29N",C,2211
+11685000,AM,R.Exterior de Espana,2230,2300,Spanish,Noblejas,Spain,......7,AF,200,161,Spain,ILGRadio,REE,,,,"003 25 49W,39 57 29N",C,
+11685000,AM,R.Exterior de Espana,2230,2300,Arabic,Noblejas,Spain,.23456.,AF,200,161,Spain,ILGRadio,REE,,,,"003 25 49W,39 57 29N",C,2212
+11685000,AM,R.Exterior de Espana,2230,2300,Sefardi,Noblejas,Spain,1......,AF,200,161,Spain,ILGRadio,REE,,,,"003 25 49W,39 57 29N",C,
+11685000,AM,R.Exterior de Espana,2300,2330,English,Noblejas,Spain,.2.4.6.,AF,200,161,Spain,ILGRadio,REE,,,,"003 25 49W,39 57 29N",C,2211
+11685000,AM,R.Exterior de Espana,2300,2400,Spanish,Noblejas,Spain,..3.5..,AF,200,161,Spain,ILGRadio,REE,,,,"003 25 49W,39 57 29N",C,
+11685000,AM,R.Exterior de Espana,2330,2400,French,Noblejas,Spain,.2.4.6.,AF,200,161,Spain,ILGRadio,REE,,,,"003 25 49W,39 57 29N",C,2211
+11685000,AM,Voice of Islamic Rep.of Iran,1423,1520,Bengali,Zahedan,Iran,1234567,ME,500,0,Iran,ILGRadio,VOIRI,,,,"060 51 52E,29 28 29N",C,
+11690000,AM,CGTN Radio (China Radio Int.),1200,1300,English,Xian-Xianyang,China,1234567,eEU,500,292,China,ILGRadio,CRI,,,,"108 36 37E,34 22 33N",C,2212
+11690000,AM,Scandinavian Weekend Radio,0000,0600,Finnish,Virrat-Liedenpohja,Finland,......7,nEU,0.1,240,Finland,ILGRadio,SWR,,,1.Saturday/mont,"023 39 15E,62 22 44N",C,
+11690000,AM,Scandinavian Weekend Radio,0600,1200,Finnish,Virrat-Liedenpohja,Finland,......7,nEU,0.1,240,Finland,ILGRadio,SWR,,,1.Saturday/mont,"023 39 15E,62 22 44N",C,
+11690000,AM,Scandinavian Weekend Radio,1200,1600,Finnish,Virrat-Liedenpohja,Finland,......7,nEU,0.1,240,Finland,ILGRadio,SWR,,,1.Saturday/mont,"023 39 15E,62 22 44N",C,2211
+11690000,AM,Scandinavian Weekend Radio,2100,2200,Finnish,Virrat-Liedenpohja,Finland,......7,nEU,0.1,240,Finland,ILGRadio,SWR,,,1.Saturday/mont,"023 39 15E,62 22 44N",C,
+11690000,AM,Scandinavian Weekend Radio,2200,2400,Finnish,Virrat-Liedenpohja,Finland,.....6.,nEU,0.1,240,Finland,ILGRadio,SWR,,,1.Friday/month,"023 39 15E,62 22 44N",C,
+11690000,AM,KSDA Adventist World Radio,1000,1100,Mandarin,Agat,Guam,1234567,cAS,100,315,Guam,ILGRadio,KSDA,KSDA,,,"144 39 12E,13 20 36N",C,2211
+11690000,AM,KSDA Adventist World Radio,1100,1200,Mandarin,Agat,Guam,1234567,cAS,100,315,Guam,ILGRadio,KSDA,KSDA,,,"144 39 12E,13 20 36N",C,2211
+11690000,AM,R.Mahibere Kidusan,1800,1830,Tigrinya,Talata-Volondry,Madagascar,1234567,eAF,250,340,Madagascar,ILGRadio,MAHIB,,,,"047 36 55E,18 45 08S",C,2211
+11690000,DRM,R.New Zealand Pacific,1756,1950,English,Rangitaiki,New Zealand,123456.,cPA,35,35,New Zealand,ILGRadio,RNZP,,,,"176 25 47E,38 50 34S",C,
+11695000,AM,R.Farda,1330,1430,Farsi,Lampertheim,Germany,1234567,nME,100,92,Germany,ILGRadio,FARDA,,,,"008 32 18E,49 36 15N",C,2211
+11695000,AM,R.Farda,1430,1530,Farsi,Lampertheim,Germany,1234567,nME,100,92,Germany,ILGRadio,FARDA,,,,"008 32 18E,49 36 15N",C,2211
+11695000,AM,R.Farda,1530,1630,Farsi,Lampertheim,Germany,1234567,nME,100,92,Germany,ILGRadio,FARDA,,,,"008 32 18E,49 36 15N",C,2211
+11695000,DRM,CNR Beijing 1,0100,0900,Mandarin,Dongfang,China,1234567,(CHNe  ),30,41,China,ILGRadio,CNR 1,,,,"108 40 50E,18 52 20N",C,2201
+11700000,AM,China Radio International,0300,0357,Hindi,Kashi,China,1234567,sAS,100,173,China,ILGRadio,CRI,,,,"075 45 16E,39 21 28N",C,2211
+11700000,AM,China Radio International,1030,1127,Indonesian,Kunming-Anning,China,1234567,seAS,500,177,China,ILGRadio,CRI,,,,"102 29 44E,24 52 54N",C,2212
+11700000,AM,China Radio International,1230,1327,Malaysian,Kunming-Anning,China,1234567,seAS,100,175,China,ILGRadio,CRI,,,,"102 29 44E,24 52 54N",C,2212
+11700000,AM,R.France Internationale,0500,0600,French,Issoudun,France,1234567,wAF/cAF,250,160,France,ILGRadio,RFI,,,,"001 54 09E,46 57 02N",C,2211
+11700000,AM,R.France Internationale,0600,0700,French,Issoudun,France,1234567,eAF/cAF,250,165,France,ILGRadio,RFI,,,,"001 54 09E,46 57 02N",C,2211
+11700000,AM,R.France Internationale,0700,0800,French,Issoudun,France,1234567,wAF/cAF,250,180,France,ILGRadio,RFI,,,,"001 54 09E,46 57 02N",C,2211
+11705000,AM,R.Maezer Semay,1730,1800,Tigrinya,Talata-Volondry,Madagascar,1234567,eAF,250,340,Madagascar,ILGRadio,MAEZE,,,,"047 36 55E,18 45 08S",C,2211
+11705000,DRM,R.Romania International,0400,0456,English,Galbeni,Romania,1234567,sAS,90,100,Romania,ILGRadio,ROMAN,,,,"026 51 17E,46 45 06N",C,2211
+11710000,AM,CNR Beijing 1,0900,1805,Mandarin,Beijing-Matou,China,1234567,(CHNnw ),100,285,China,ILGRadio,CNR 1,,,,"116 48 38E,39 44 51N",C,2212
+11710000,AM,CNR Beijing 1,2025,0130,Mandarin,Beijing-Matou,China,1234567,(CHNnw ),100,285,China,ILGRadio,CNR 1,,,,"116 48 38E,39 44 51N",C,2211
+11710000,AM,China Radio International,0600,0700,Mandarin,Nanning,China,1234567,seAS,100,200,China,ILGRadio,CRI,,,,"108 11 30E,22 47 32N",C,
+11710000,AM,China Radio International,0700,0800,Mandarin,Nanning,China,1234567,seAS,100,200,China,ILGRadio,CRI,,,,"108 11 30E,22 47 32N",C,2212
+11710000,AM,China Radio International,0300,0400,Russian,Urumqui,China,1234567,eEUs/cAS,500,270,China,ILGRadio,CRI,,,,"086 53 49E,44 08 53N",C,2212
+11710000,AM,Voice of Korea,1300,1357,English,Kuyang,Korea-North,1234567,NA,200,28,North Korea,ILGRadio,VKORE,,,,"126 06 38E,40 04 52N",C,2212
+11710000,AM,Voice of Korea,1400,1457,French,Kuyang,Korea-North,1234567,NA,200,28,North Korea,ILGRadio,VKORE,,,,"126 06 38E,40 04 52N",C,2201
+11710000,AM,Voice of Korea,1500,1557,English,Kuyang,Korea-North,1234567,NA,200,28,North Korea,ILGRadio,VKORE,,,,"126 06 38E,40 04 52N",C,2211
+11710000,AM,Voice of Korea,1600,1657,French,Kuyang,Korea-North,1234567,NA,200,28,North Korea,ILGRadio,VKORE,,,,"126 06 38E,40 04 52N",C,2201
+11710000,AM,Voice of Korea - KCBS,1700,1750,Korean,Kuyang,Korea-North,1234567,NA,200,28,North Korea,ILGRadio,VKORE,,,,"126 06 38E,40 04 52N",C,2201
+11710000,AM,Voice of Turkiye,0800,0855,Azeri,Emirler,Turkiye,1234567,eEUse,250,72,Turkey,ILGRadio,VTURK,,,,"032 51 20E,39 24 08N",C,2211
+11715000,AM,Chinese Jammer,0100,0200,Mandarin,Dongfang,China,1234567,(CHNe  ),250,15,China,ILGRadio,Jamme,,,JAMMING SOH,"108 40 50E,18 52 20N",C,2211
+11715000,AM,Chinese Jammer,0200,0300,Mandarin,Dongfang,China,1234567,(CHNe  ),250,15,China,ILGRadio,Jamme,,,JAMMING SOH,"108 40 50E,18 52 20N",C,2211
+11715000,AM,Chinese Jammer,0300,0400,Mandarin,Dongfang,China,1234567,(CHNe  ),250,15,China,ILGRadio,Jamme,,,JAMMING SOH,"108 40 50E,18 52 20N",C,2204
+11715000,AM,Chinese Jammer,0500,0600,Mandarin,Dongfang,China,1234567,(CHNe  ),250,15,China,ILGRadio,Jamme,,,JAMMING SOH,"108 40 50E,18 52 20N",C,2201
+11715000,AM,Chinese Jammer,0600,0700,Mandarin,Dongfang,China,1234567,(CHNe  ),250,15,China,ILGRadio,Jamme,,,JAMMING SOH,"108 40 50E,18 52 20N",C,2201
+11715000,AM,Chinese Jammer,1000,1100,Mandarin,Dongfang,China,1234567,(CHNe  ),250,15,China,ILGRadio,Jamme,,,JAMMING SOH,"108 40 50E,18 52 20N",C,2211
+11715000,AM,Chinese Jammer,1100,1200,Mandarin,Dongfang,China,1234567,(CHNe  ),250,15,China,ILGRadio,Jamme,,,JAMMING SOH,"108 40 50E,18 52 20N",C,2211
+11715000,AM,Chinese Jammer,0000,0100,Mandarin,Kashi II,China,1234567,(CHN   ),250,95,China,ILGRadio,Jamme,,,JAMMING SOH,"075 42 55E,39 21 51N",C,2208
+11715000,AM,Chinese Jammer,0700,0800,Mandarin,Kashi II,China,1234567,(CHN   ),250,95,China,ILGRadio,Jamme,,,JAMMING SOH,"075 42 55E,39 21 51N",C,2208
+11715000,AM,Chinese Jammer,0800,0900,Mandarin,Kashi II,China,1234567,(CHN   ),250,95,China,ILGRadio,Jamme,,,JAMMING SOH,"075 42 55E,39 21 51N",C,2211
+11715000,AM,Chinese Jammer,0900,1000,Mandarin,Kashi II,China,1234567,(CHN   ),250,95,China,ILGRadio,Jamme,,,JAMMING SOH,"075 42 55E,39 21 51N",C,2211
+11715000,AM,Chinese Jammer,1200,1300,Mandarin,Kashi II,China,1234567,(CHN   ),250,95,China,ILGRadio,Jamme,,,JAMMING SOH,"075 42 55E,39 21 51N",C,2212
+11715000,AM,Chinese Jammer,1300,1400,Mandarin,Kashi II,China,1234567,(CHN   ),250,95,China,ILGRadio,Jamme,,,JAMMING SOH,"075 42 55E,39 21 51N",C,2211
+11715000,AM,Chinese Jammer,1400,1500,Mandarin,Kashi II,China,1234567,(CHN   ),250,95,China,ILGRadio,Jamme,,,JAMMING SOH,"075 42 55E,39 21 51N",C,2211
+11715000,AM,Chinese Jammer,1600,1700,Mandarin,Kashi II,China,1234567,(CHN   ),250,95,China,ILGRadio,Jamme,,,JAMMING SOH,"075 42 55E,39 21 51N",C,2211
+11715000,AM,Chinese Jammer,1700,1800,Mandarin,Kashi II,China,1234567,(CHN   ),250,95,China,ILGRadio,Jamme,,,JAMMING SOH,"075 42 55E,39 21 51N",C,2211
+11715000,AM,Chinese Jammer,2200,2300,Mandarin,Kashi II,China,1234567,(CHN   ),250,95,China,ILGRadio,Jamme,,,JAMMING SOH,"075 42 55E,39 21 51N",C,2208
+11715000,AM,Chinese Jammer,2300,2400,Mandarin,Kashi II,China,1234567,(CHN   ),250,95,China,ILGRadio,Jamme,,,JAMMING SOH,"075 42 55E,39 21 51N",C,2211
+11715000,AM,Sound of Hope Radio Network,0000,0100,Mandarin,Taichung - low power site,Taiwan,1234567,cAS,1,320,Taiwan,ILGRadio,SOH,,,vary freq.move,"120 45 00E,24 10 00N",C,2211
+11715000,AM,Sound of Hope Radio Network,0100,0200,Mandarin,Taichung - low power site,Taiwan,1234567,cAS,1,320,Taiwan,ILGRadio,SOH,,,vary freq.move,"120 45 00E,24 10 00N",C,2211
+11715000,AM,Sound of Hope Radio Network,0200,0300,Mandarin,Taichung - low power site,Taiwan,1234567,cAS,1,320,Taiwan,ILGRadio,SOH,,,vary freq.move,"120 45 00E,24 10 00N",C,2211
+11715000,AM,Sound of Hope Radio Network,0300,0400,Mandarin,Taichung - low power site,Taiwan,1234567,cAS,1,320,Taiwan,ILGRadio,SOH,,,vary freq.move,"120 45 00E,24 10 00N",C,2206
+11715000,AM,Sound of Hope Radio Network,0400,0500,Mandarin,Taichung - low power site,Taiwan,1234567,cAS,1,320,Taiwan,ILGRadio,SOH,,,vary freq.move,"120 45 00E,24 10 00N",C,2204
+11715000,AM,Sound of Hope Radio Network,0500,0600,Mandarin,Taichung - low power site,Taiwan,1234567,cAS,1,320,Taiwan,ILGRadio,SOH,,,vary freq.move,"120 45 00E,24 10 00N",C,2201
+11715000,AM,Sound of Hope Radio Network,0600,0700,Mandarin,Taichung - low power site,Taiwan,1234567,cAS,1,320,Taiwan,ILGRadio,SOH,,,vary freq.move,"120 45 00E,24 10 00N",C,2201
+11715000,AM,Sound of Hope Radio Network,0700,0800,Mandarin,Taichung - low power site,Taiwan,1234567,cAS,1,320,Taiwan,ILGRadio,SOH,,,vary freq.move,"120 45 00E,24 10 00N",C,2211
+11715000,AM,Sound of Hope Radio Network,0800,0900,Mandarin,Taichung - low power site,Taiwan,1234567,cAS,1,320,Taiwan,ILGRadio,SOH,,,vary freq.move,"120 45 00E,24 10 00N",C,2211
+11715000,AM,Sound of Hope Radio Network,0900,1000,Mandarin,Taichung - low power site,Taiwan,1234567,cAS,1,320,Taiwan,ILGRadio,SOH,,,vary freq.move,"120 45 00E,24 10 00N",C,2211
+11715000,AM,Sound of Hope Radio Network,1000,1100,Mandarin,Taichung - low power site,Taiwan,1234567,cAS,1,320,Taiwan,ILGRadio,SOH,,,vary freq.move,"120 45 00E,24 10 00N",C,2211
+11715000,AM,Sound of Hope Radio Network,1100,1200,Mandarin,Taichung - low power site,Taiwan,1234567,cAS,1,320,Taiwan,ILGRadio,SOH,,,vary freq.move,"120 45 00E,24 10 00N",C,2211
+11715000,AM,Sound of Hope Radio Network,1200,1300,Mandarin,Taichung - low power site,Taiwan,1234567,cAS,1,320,Taiwan,ILGRadio,SOH,,,vary freq.move,"120 45 00E,24 10 00N",C,2212
+11715000,AM,Sound of Hope Radio Network,1300,1400,Mandarin,Taichung - low power site,Taiwan,1234567,cAS,1,320,Taiwan,ILGRadio,SOH,,,vary freq.move,"120 45 00E,24 10 00N",C,2211
+11715000,AM,Sound of Hope Radio Network,1400,1500,Mandarin,Taichung - low power site,Taiwan,1234567,cAS,1,320,Taiwan,ILGRadio,SOH,,,vary freq.move,"120 45 00E,24 10 00N",C,2211
+11715000,AM,Sound of Hope Radio Network,1500,1600,Cantonese,Taichung - low power site,Taiwan,1234567,cAS,1,320,Taiwan,ILGRadio,SOH,,,vary freq.move,"120 45 00E,24 10 00N",C,2211
+11715000,AM,Sound of Hope Radio Network,1600,1700,Mandarin,Taichung - low power site,Taiwan,1234567,cAS,1,320,Taiwan,ILGRadio,SOH,,,vary freq.move,"120 45 00E,24 10 00N",C,2211
+11715000,AM,Sound of Hope Radio Network,1700,1800,Mandarin,Taichung - low power site,Taiwan,1234567,cAS,1,320,Taiwan,ILGRadio,SOH,,,vary freq.move,"120 45 00E,24 10 00N",C,2211
+11715000,AM,Sound of Hope Radio Network,2100,2200,Mandarin,Taichung - low power site,Taiwan,1234567,cAS,1,320,Taiwan,ILGRadio,SOH,,,vary freq.move,"120 45 00E,24 10 00N",C,2210
+11715000,AM,Sound of Hope Radio Network,2200,2300,Mandarin,Taichung - low power site,Taiwan,1234567,cAS,1,320,Taiwan,ILGRadio,SOH,,,vary freq.move,"120 45 00E,24 10 00N",C,2211
+11715000,AM,Sound of Hope Radio Network,2300,2400,Mandarin,Taichung - low power site,Taiwan,1234567,cAS,1,320,Taiwan,ILGRadio,SOH,,,vary freq.move,"120 45 00E,24 10 00N",C,2211
+11720000,AM,CNR Beijing 1,0600,0900,Mandarin,Shijiazhuang,China,12.4567,(CHNs  ),100,217,China,ILGRadio,CNR 1,,,,"114 06 22E,38 13 17N",C,2211
+11720000,AM,CNR Beijing 1,0900,1100,Mandarin,Shijiazhuang,China,1234567,(CHNs  ),100,217,China,ILGRadio,CNR 1,,,,"114 06 22E,38 13 17N",C,2212
+11720000,AM,CNR Beijing 1,2330,0600,Mandarin,Shijiazhuang,China,1234567,(CHNs  ),100,217,China,ILGRadio,CNR 1,,,,"114 06 22E,38 13 17N",C,2211
+11720000,AM,China Radio International,1200,1257,Vietnamese,Xian-Baoji,China,1234567,seASn,150,195,China,ILGRadio,CRI,,,,"106 56 30E,34 41 36N",C,2212
+11720000,AM,Scandinavian Weekend Radio,1600,1800,Finnish,Virrat-Liedenpohja,Finland,......7,nEU,0.1,240,Finland,ILGRadio,SWR,,,1.Saturday/mont,"023 39 15E,62 22 44N",C,
+11720000,AM,Scandinavian Weekend Radio,1800,2100,Finnish,Virrat-Liedenpohja,Finland,......7,nEU,0.1,240,Finland,ILGRadio,SWR,,,1.Saturday/mont,"023 39 15E,62 22 44N",C,
+11720000,AM,Adventist World Radio,1700,1728,Swahili,Talata-Volondry,Madagascar,1234567,eAF,250,335,Madagascar,ILGRadio,AWR,,,,"047 36 55E,18 45 08S",C,2211
+11720000,AM,Voice of America - VOA News,2100,2200,English,"Greenville,NC",USA,1234567,wAF/cAF,125,91,USA,ILGRadio,VOA,,,,"077 11 55W,35 28 05N",C,2211
+11720000,AM,Voice of Vietnam 1,2215,1030,Vietnamese,Hanoi-Son Tay,Vietnam,1234567,(VTN   ),100,187,Vietnam,ILGRadio,VOV 1,,,,"105 24 53E,21 08 24N",C,2211
+11720000,AM,Voice of Vietnam 2,1030,1700,Vietnamese,Hanoi-Son Tay,Vietnam,1234567,(VTN   ),50,187,Vietnam,ILGRadio,VOV 2,,,,"105 24 53E,21 08 24N",C,2211
+11725000,AM,Chinese Jammer,1500,1600,Mandarin,Kashi II,China,....5..,(CHN   ),250,90,China,ILGRadio,Jamme,,,JAMMING RFA MAN,"075 42 55E,39 21 51N",C,
+11725000,AM,Chinese Jammer,1500,1600,Mandarin,Kashi II,China,..3....,(CHN   ),250,90,China,ILGRadio,Jamme,,,JAMMING RFA MAN,"075 42 55E,39 21 51N",C,
+11725000,AM,R.Free Asia,1500,1600,Mandarin,Kuwait-Al Jahra,Kuwait,....5..,cAS,250,70,Kuwait,ILGRadio,RFA,,,,"047 40 22E,29 30 45N",C,
+11725000,AM,R.Free Asia,1500,1600,Mandarin,Kuwait-Al Jahra,Kuwait,..3....,cAS,250,70,Kuwait,ILGRadio,RFA,,,,"047 40 22E,29 30 45N",C,
+11725000,AM,R.New Zealand Pacific,1759,1958,English,Rangitaiki,New Zealand,......7,wPA,50,325,New Zealand,ILGRadio,RNZP,,,,"176 25 47E,38 50 34S",C,
+11725000,AM,R.New Zealand Pacific,1759,1958,English,Rangitaiki,New Zealand,......7,cPA,50,35,New Zealand,ILGRadio,RNZP,,,,"176 25 47E,38 50 34S",C,
+11725000,AM,R.New Zealand Pacific,1759,2058,English,Rangitaiki,New Zealand,123456.,cPA,50,35,New Zealand,ILGRadio,RNZP,,,,"176 25 47E,38 50 34S",C,2211
+11725000,AM,R.New Zealand Pacific,1759,2058,English,Rangitaiki,New Zealand,123456.,wPA,50,325,New Zealand,ILGRadio,RNZP,,,,"176 25 47E,38 50 34S",C,2211
+11725000,AM,BBC World Service,1400,1500,Dari,Al Seela,Oman,1234567,neME,250,35,Oman,ILGRadio,BBC,,,,"059 37 01E,21 55 06N",C,2211
+11725000,DRM,Chinese Jammer,1500,1600,DRM Mandarin,Dongfang,China,....5..,(CHNe  ),30,5,China,ILGRadio,Jamme,,,JAMMING RFA MAN,"108 40 50E,18 52 20N",C,
+11725000,DRM,Chinese Jammer,1500,1600,DRM Mandarin,Dongfang,China,..3....,(CHNe  ),30,5,China,ILGRadio,Jamme,,,JAMMING RFA MAN,"108 40 50E,18 52 20N",C,
+11730000,AM,China Radio International,0230,0330,Nepali,Kunming-Anning,China,1234567,sASn,500,283,China,ILGRadio,CRI,,,,"102 29 44E,24 52 54N",C,2212
+11735000,AM,Voice of Korea,0300,0357,Spanish,Kuyang,Korea-North,1234567,CA/SA,200,48,North Korea,ILGRadio,VKORE,,,,"126 06 38E,40 04 52N",C,2102
+11735000,AM,Voice of Korea,0400,0457,English,Kuyang,Korea-North,1234567,CA/SA,200,48,North Korea,ILGRadio,VKORE,,,,"126 06 38E,40 04 52N",C,2201
+11735000,AM,Voice of Korea,0500,0557,Spanish,Kuyang,Korea-North,1234567,CA/SA,200,48,North Korea,ILGRadio,VKORE,,,,"126 06 38E,40 04 52N",C,2201
+11735000,AM,Voice of Korea,0600,0657,French,Kuyang,Korea-North,1234567,CA/SA,200,48,North Korea,ILGRadio,VKORE,,,,"126 06 38E,40 04 52N",C,2201
+11735000,AM,Voice of Korea,0700,0757,Russian,Kuyang,Korea-North,1234567,neAS,200,28,North Korea,ILGRadio,VKORE,,,,"126 06 38E,40 04 52N",C,2211
+11735000,AM,Voice of Korea,0800,0857,Russian,Kuyang,Korea-North,1234567,neAS,200,28,North Korea,ILGRadio,VKORE,,,,"126 06 38E,40 04 52N",C,2201
+11735000,AM,BBC World Service,1000,1100,English,Kranji,Singapore,1234567,seASs,250,90,Singapore,ILGRadio,BBC,,,,"103 43 56E,01 25 23N",C,2211
+11735000,AM,BBC World Service,1700,1800,Dari,Kranji,Singapore,1234567,neME,250,315,Singapore,ILGRadio,BBC,,,,"103 43 56E,01 25 23N",C,2211
+11735000,AM,BBC World Service,1800,1900,Pashto,Kranji,Singapore,1234567,neME,250,315,Singapore,ILGRadio,BBC,,,,"103 43 56E,01 25 23N",C,2211
+11740000,AM,CNR Beijing 2,1100,1605,Mandarin,Lingshi,China,1234567,(CHNw  ),100,286,China,ILGRadio,CNR 2,,,,"111 55 23E,36 52 18N",I,NONE
+11740000,AM,CNR Beijing 2,2055,0100,Mandarin,Lingshi,China,1234567,(CHNw  ),100,286,China,ILGRadio,CNR 2,,,,"111 55 23E,36 52 18N",I,NONE
+11740000,AM,China Radio International,0200,0230,Pashto,Xian-Xianyang,China,1234567,neME,500,292,China,ILGRadio,CRI,,,,"108 36 37E,34 22 33N",C,2212
+11745000,AM,Al Azm Radio,0000,0657,Arabic,Jeddah,Saudi Arabia,1234567,sME,250,150,Saudi Arabia,ILGRadio,AAR,,,,"039 09 42E,21 14 40N",C,2211
+11745000,AM,Al Azm Radio,0755,2400,Arabic,Jeddah,Saudi Arabia,1234567,sME,250,150,Saudi Arabia,ILGRadio,AAR,,,,"039 09 42E,21 14 40N",C,2212
+11745000,AM,R.Taiwan International,0800,0858,Japanese,BauJong,Taiwan,1234567,eAS,300,45,Taiwan,ILGRadio,RTI,,,,"120 18 00E,23 43 30N",C,2211
+11750000,AM,CNR Beijing,0000,1055,Mandarin,Nanning,China,1234567,seASn,100,142,China,ILGRadio,CNR,,,,"108 11 30E,22 47 32N",C,2212
+11750000,AM,CNR Beijing 1,0600,0800,Mandarin,Shijiazhuang,China,12.4567,(CHNne ),100,37,China,ILGRadio,CNR 1,,,,"114 06 22E,38 13 17N",C,2211
+11750000,AM,CNR Beijing 1,2200,0600,Mandarin,Shijiazhuang,China,1234567,(CHNne ),100,37,China,ILGRadio,CNR 1,,,,"114 06 22E,38 13 17N",C,2211
+11750000,AM,China Radio International,1100,1157,Mandarin,Beijing-Doudian,China,1234567,AU,500,142,China,ILGRadio,CRI,,,,"116 05 37E,39 38 11N",C,2212
+11750000,AM,Sri Lanka Broadcasting Corp.,1630,1830,Sinhala,Trincomalee,Sri Lanka,1234567,ME,125,300,Sri Lanka,ILGRadio,SLBC,,,,"081 07 50E,08 44 35N",C,2211
+11750000,AM,R.Free Asia,1430,1500,Khmer,Tinian Island,North.Mariana Isl.,1234567,seASn,250,272,Northern Mariana Islands,ILGRadio,RFA,,,,"145 36 19E,15 02 51N",C,2211
+11750000,AM,BBC World Service,1330,1400,Bengali,Al Seela,Oman,1234567,sASe,125,80,Oman,ILGRadio,BBC,,,,"059 37 01E,21 55 06N",C,2211
+11750000,AM,FEBC Radio,1400,1430,Lahu,Bocaue,Philippines,1234567,c/seASn,100,305,Philippines,ILGRadio,FEBC,,,,"120 54 37E,14 48 08N",C,2211
